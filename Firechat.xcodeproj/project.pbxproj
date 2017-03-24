@@ -8,13 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		4043690F1E844B2D0090D77E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4043690E1E844B2D0090D77E /* GoogleService-Info.plist */; };
+		404369111E8498860090D77E /* FirechatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AEB8F1E81659900D23591 /* FirechatTests.swift */; };
 		8F4974901E8403D7009F84A1 /* FirebaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F49748F1E8403D7009F84A1 /* FirebaseManager.swift */; };
 		8F8AEB7B1E81659900D23591 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AEB7A1E81659900D23591 /* AppDelegate.swift */; };
 		8F8AEB7D1E81659900D23591 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AEB7C1E81659900D23591 /* ViewController.swift */; };
 		8F8AEB801E81659900D23591 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8AEB7E1E81659900D23591 /* Main.storyboard */; };
 		8F8AEB821E81659900D23591 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F8AEB811E81659900D23591 /* Assets.xcassets */; };
 		8F8AEB851E81659900D23591 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8AEB831E81659900D23591 /* LaunchScreen.storyboard */; };
-		8F8AEB901E81659900D23591 /* FirechatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AEB8F1E81659900D23591 /* FirechatTests.swift */; };
 		9EAC9EB0FC72BBB6874EDF50 /* Pods_FirechatTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C9FE1B8A9D6BE7F615DD4E8 /* Pods_FirechatTests.framework */; };
 		D0312EBBC1674D754D5B37BD /* Pods_Firechat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5BF389939F6A97DCE785A26 /* Pods_Firechat.framework */; };
 /* End PBXBuildFile section */
@@ -349,7 +349,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F8AEB901E81659900D23591 /* FirechatTests.swift in Sources */,
+				404369111E8498860090D77E /* FirechatTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

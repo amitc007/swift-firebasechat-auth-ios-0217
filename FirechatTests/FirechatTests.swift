@@ -9,6 +9,7 @@
 import XCTest
 import Pods_Firechat
 
+
 @testable import Firechat
 
 class FirechatTests: XCTestCase {
